@@ -1,14 +1,13 @@
-#A Premium Bag Shop
-
+A Premium Bag Shop
 
 
 📌 Overview
 
-A Premium Bag Shop ek e-commerce web application hai jisme users ko register, login, aur products browse karne ka option milta hai. Users apne pasandida products ko cart me add kar sakte hain. Iske alawa ek admin panel bhi hai jaha se admin naye products create kar sakta hai aur manage kar sakta hai.
+A Premium Bag Shop is an e-commerce web application where users can register, log in, and browse products. Users can also add products to their cart. Additionally, there is an admin panel where admins can create and manage products.
 
 ✨ Features
 
-✅ User Authentication: Register, Login, and Logout functionality.✅ Shop Page: Sare available bags display hote hain.✅ Cart System: Users apne selected bags ko cart me add kar sakte hain.✅ Admin Panel: Admin naye products create aur manage kar sakta hai.✅ Secure Logout: Users aur admin dono logout kar sakte hain.
+✅ User Authentication: Register, Login, and Logout functionality.✅ Shop Page: Displays all available bags.✅ Cart System: Users can add selected bags to their cart.✅ Admin Panel: Admins can create and manage products.✅ Secure Logout: Users and admins can securely log out.
 
 🔧 Installation & Setup
 
@@ -23,7 +22,7 @@ npm install
 
 Setup Environment Variables:
 
-.env file create karo aur necessary variables define karo.
+Create a .env file and define necessary variables.
 
 Start the Server:
 
@@ -35,8 +34,12 @@ http://localhost:3000
 
 🚀 Future Improvements
 
-🛒 Payment Integration – Online payment gateway ka option add karna.🚚 Delivery System – Order tracking aur delivery integration.📦 Wishlist Feature – Users wishlist me products save kar sakein.
+🛒 Payment Integration – Adding an online payment gateway.🚚 Delivery System – Order tracking and delivery integration.📦 Wishlist Feature – Users can save products to a wishlist.
 
 📸 Screenshot
 
-<img width="677" alt="s_3" src="https://github.com/user-attachments/assets/710db5b1-f66d-4d93-9064-e1fd50ec5364" />
+<img width="940" alt="S_1" src="https://github.com/user-attachments/assets/bfb17fa0-a2e8-4453-9c84-6c9a4e2c35fa" />
+<img width="942" alt="S_2" src="https://github.com/user-attachments/assets/088b0c95-356d-46b7-b161-44664737035d" />
+<img width="677" alt="s_3" src="https://github.com/user-attachments/assets/a3bb7966-681c-4eb7-b533-106a2b1045f6" />
+
+
