@@ -1,6 +1,6 @@
-A Premium Bag Shop
+#A Premium Bag Shop
 
-Replace path-to-your-image.png with the actual image path
+
 
 📌 Overview
 
