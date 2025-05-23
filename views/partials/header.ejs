@@ -14,16 +14,13 @@
         <h3 class="text-xl">Scatch</h3>
         <% var loggedin = typeof loggedin !== "undefined" ? loggedin : true %>
         <% if(loggedin){ %>
-
             <div class="flex gap-5">
                 <a href="/shop">Shop</a>
                 <a href="/cart">Cart</a>
+                <a href="/orders">Orders</a>
+                <a href="/feedback">Feedback</a>
                 <a href="http://">My Account</a>
                 <a class="text-red-600" href="/users/logout">Logout</a>
             </div>
-
-
-            <%
-
-        } %>
+        <% } %>
     </nav>
